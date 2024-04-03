@@ -9,6 +9,6 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["corne_left","corne_right"]'
-      alphas: "QWERTY"
-      nav: "invertedT"
-      layers: "flip"
+      alphas: '["QWERTY"]'
+      nav: '["invertedT"]'
+      layers: '["flip"]'
